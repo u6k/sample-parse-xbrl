@@ -30,6 +30,12 @@ $ docker run --rm -v $(pwd):/var/myapp sample-xbrl-parse
 
 同文書に含まれる`0101010_honbun_jpcrp030000-asr-001_E00012-000_2017-03-31_01_2017-06-27_ixbrl.htm`に連結経営指標等が記載されており、第94期(平成29年3月)の総資産額(百万円)を見ると、「97,391」となっており、取得した数値が正しいことが分かる。
 
+## Link
+
+参考リンク
+
+- [EDINETのXBRL用のPythonライブラリを作った - Parser編 - Qiita](https://qiita.com/shoe116/items/dd362ad880f2b6baa96f)
+
 ## Maintainer
 
 - u6k
